@@ -1,2 +1,10 @@
-# video-maker
-Projeto open source para fazeqr vídeos automatizados
+# Credentials  format
+
+## Algorithmia
+
+File: `algorithmia.json`
+```
+{
+    "apiKey": "sim1566149819815331564468"
+}
+```
